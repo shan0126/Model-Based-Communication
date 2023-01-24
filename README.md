@@ -28,4 +28,6 @@ In predator-prey environment with relative locations of preys and other predator
     sh exp_pp_loc.sh
     
 ## Reference
-The training framework is adapted from MAGIC [https://github.com/CORE-Robotics-Lab/MAGIC].
+The training framework is adapted from [MAGIC].
+
+[MAGIC]: https://github.com/CORE-Robotics-Lab/MAGIC
