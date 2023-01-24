@@ -9,10 +9,9 @@ This is the code for "Model-based Sparse Communication in Multi-agent Reinforcem
 
 ## Install Predator-Prey Environment
 
-'''
-cd pp_pixel\envs\ic3net-envs
-python setup.py develop
-'''
+    cd pp_pixel\envs\ic3net-envs
+    python setup.py develop
+
 
 ## Run the code
 
