@@ -6,7 +6,6 @@
 #SBATCH --time=00:20:00
 export OMP_NUM_THREADS=1
 
-source activate ic3net
 
 python -u pp_pixel/main.py \
     --env_name predator_prey \
