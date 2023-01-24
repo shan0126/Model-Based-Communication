@@ -6,8 +6,6 @@
 #SBATCH --time=80:00:00
 export OMP_NUM_THREADS=1
 
-source activate ic3net
-
 
 python -u pp_loc/main.py \
   --env_name pp \
